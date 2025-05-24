@@ -1,0 +1,39 @@
+{
+  "name": "@fastx/use-undo-redo",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "hooks",
+    "undo",
+    "redo",
+    "state"
+  ],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "scripts": {
+    "build": "tsup"
+  },
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js"
+    }
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.2",
+    "react": "^19.2.0",
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.3"
+  }
+}
