@@ -1,0 +1,13 @@
+#root {
+    padding: 10px 30px;
+}
+
+.ant-layout-header {
+    display: flex;
+    margin-bottom: 10px;
+    padding: 0;
+}
+
+.actions .anticon {
+    font-size: 18px;
+}
