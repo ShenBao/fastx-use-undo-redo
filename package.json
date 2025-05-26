@@ -1,0 +1,14 @@
+{
+  "name": "fastx-use-undo-redo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "description": "@fastx useUndoRedo",
+  "packageManager": "pnpm@9.15.0",
+  "engines": {
+    "node": ">=20",
+    "npm": ">=10",
+    "pnpm": ">=9"
+  }
+}
