@@ -120,3 +120,12 @@ past, future, undo, canUndo, redo, canRedo, reset, static_setState;
 只接受新值，不接受函数更新。不会因 `present` 改变而生成新引用，适合某些性能需求。
 
 
+## More links
+
+- [GitHub Home](https://github.com/ShenBao)
+- [Blog Home](https://shenbao.github.io)
+- [About Me](https://shenbao.github.io/about/)
+
+## License
+
+MIT
